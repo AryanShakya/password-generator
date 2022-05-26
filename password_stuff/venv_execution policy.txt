@@ -1,0 +1,3 @@
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted
+
+for error related to venv to windows exe policy
